@@ -1,6 +1,6 @@
 # Zipcode Information App
 
-This project is created using React and it displays the location of the postal code entered.
+This project is created using React.js and it displays the location of the postal code entered.
 
 # Link to the website
 https://shanmukhigandham-zipcodeinfo.netlify.app/
